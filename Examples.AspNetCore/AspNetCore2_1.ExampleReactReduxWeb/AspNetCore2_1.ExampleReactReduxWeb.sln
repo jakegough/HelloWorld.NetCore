@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.902
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AspNetCore2_1.ExampleReactReduxWeb", "AspNetCore2_1.ExampleReactReduxWeb\AspNetCore2_1.ExampleReactReduxWeb.csproj", "{0F8FAFFC-BA98-4A68-86B1-E3BE70F13813}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0F8FAFFC-BA98-4A68-86B1-E3BE70F13813}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0F8FAFFC-BA98-4A68-86B1-E3BE70F13813}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0F8FAFFC-BA98-4A68-86B1-E3BE70F13813}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0F8FAFFC-BA98-4A68-86B1-E3BE70F13813}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {819C1E51-F80D-4EE7-BAF2-E848176FB6A9}
+	EndGlobalSection
+EndGlobal
