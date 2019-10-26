@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.902
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AspNetCore2_1.ExampleReactWeb", "AspNetCore2_1.ExampleReactWeb\AspNetCore2_1.ExampleReactWeb.csproj", "{1F5367C8-0B75-44F3-997C-6E3BB4320425}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1F5367C8-0B75-44F3-997C-6E3BB4320425}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1F5367C8-0B75-44F3-997C-6E3BB4320425}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1F5367C8-0B75-44F3-997C-6E3BB4320425}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1F5367C8-0B75-44F3-997C-6E3BB4320425}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F5A11F71-7C6B-4F5A-BC96-1889B33A57B8}
+	EndGlobalSection
+EndGlobal
